@@ -16,7 +16,6 @@ z. B. 4 Personen
 - 2 Eier
 - 1 TL Backpulver
 - ...
-_(nach Menge und Einheit getrennt, ideal für Automatisierung)_
 
 ## 🔪 Zubereitung:
 1. Schrittweise, möglichst kurz und klar.
@@ -25,6 +24,11 @@ _(nach Menge und Einheit getrennt, ideal für Automatisierung)_
 
 ## 💡 Tipps:
 - Hier kannst du alternative Zutaten oder Varianten notieren.
+
+## 🌐 Quelle:
+z. B. [chefkoch.de/bananenbrot](https://www.chefkoch.de/bananenbrot)  
+oder: „Mit ChatGPT generiert, angepasst am 2025-05-29“  
+oder: „Familienrezept von Oma“
 
 ## 📷 Bild (optional):
 Füge ein Bild in das gleiche Verzeichnis ein und verlinke es:
