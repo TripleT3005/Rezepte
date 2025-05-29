@@ -45,3 +45,6 @@ ca. 12 Stücke (je nach Größe)
 * Wer es süßer möchte, kann 1–2 fein gehackte Datteln oder Rosinen untermischen.
 * Auch lauwarm mit etwas Naturjoghurt serviert sehr lecker.
 * Der Kuchen bleibt durch die Äpfel schön saftig und ist perfekt für Diabetiker, da er natürliche Süße und gesunde Fette enthält.
+
+## 🌐 Quelle:
+Mit ChatGPT generiert.
