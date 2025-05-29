@@ -30,18 +30,18 @@ ca. 12 Stücke (je nach Größe)
 
 ## 🔪 Zubereitung:
 
-1. Backofen auf 180 °C (Ober-/Unterhitze) vorheizen.
-2. Ein Backblech mit Backpapier auslegen oder leicht einfetten.
-3. Gemahlene Mandeln, Hafermehl, Backpulver, Zimt und Salz in einer Schüssel vermengen.
-4. Eier, Milch, Joghurt und Vanilleextrakt in einer zweiten Schüssel verquirlen.
-5. Die flüssigen Zutaten zu den trockenen geben und alles gut verrühren.
-6. Geriebene Äpfel und gehackte Nüsse unter den Teig heben.
-7. Den Teig gleichmäßig auf dem vorbereiteten Backblech verteilen und glatt streichen.
-8. Im vorgeheizten Ofen ca. 30 Minuten backen, bis der Kuchen goldbraun ist (Stäbchenprobe machen).
-9. Aus dem Ofen nehmen, abkühlen lassen und in Stücke schneiden.
+1. **Backofen vorheizen** auf 180°C (Ober-/Unterhitze). Ein Backblech mit Backpapier auslegen oder einfetten.
+2. **Trockene Zutaten** (gemahlene Mandeln, Hafermehl, Backpulver, Zimt, Salz) in einer Schüssel vermengen.
+3. **Flüssige Zutaten** (Eier, Milch, Joghurt, Vanilleextrakt) in einer zweiten Schüssel verquirlen.
+4. Die flüssigen Zutaten zu den trockenen geben und alles gut verrühren.
+5. **Geriebene Äpfel & gehackte Nüsse** unter den Teig heben.
+6. Den Teig auf das Backblech geben und glatt streichen.
+7. **Backen:** Ca. 25–30 Minuten, bis der Kuchen goldbraun ist. Stäbchenprobe machen.
+8. Abkühlen lassen und genießen.
 
 ## 💡 Tipps:
 
 * Statt Äpfeln eignen sich auch Birnen oder Pflaumen.
 * Wer es süßer möchte, kann 1–2 fein gehackte Datteln oder Rosinen untermischen.
 * Auch lauwarm mit etwas Naturjoghurt serviert sehr lecker.
+* Der Kuchen bleibt durch die Äpfel schön saftig und ist perfekt für Diabetiker, da er natürliche Süße und gesunde Fette enthält.
