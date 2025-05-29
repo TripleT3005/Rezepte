@@ -25,7 +25,7 @@ ca. 12 Stücke (je nach Größe)
 * 1 TL Zimt
 * 1 Prise Salz
 * 3 Stück Äpfel (mittelgroß, gerieben oder fein gewürfelt)
-* 50 g gehackte Nüsse (z. B. Walnüsse, optional)
+* 50 g gehackte Nüsse (optional, z. B. Walnüsse oder Haselnüsse)
 * 1 TL Vanilleextrakt
 
 ## 🔪 Zubereitung:
