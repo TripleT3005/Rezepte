@@ -45,7 +45,3 @@ ca. 12 Stücke (je nach Größe)
 * Statt Äpfeln eignen sich auch Birnen oder Pflaumen.
 * Wer es süßer möchte, kann 1–2 fein gehackte Datteln oder Rosinen untermischen.
 * Auch lauwarm mit etwas Naturjoghurt serviert sehr lecker.
-
-## 📷 Bild (optional):
-
-`![Apfel-Mandel-Blechkuchen](./apfel-mandel-blechkuchen.jpg)`
