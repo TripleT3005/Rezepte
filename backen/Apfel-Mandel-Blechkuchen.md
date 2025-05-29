@@ -34,7 +34,7 @@ ca. 12 Stücke (je nach Größe)
 2. **Trockene Zutaten** (gemahlene Mandeln, Hafermehl, Backpulver, Zimt, Salz) in einer Schüssel vermengen.
 3. **Flüssige Zutaten** (Eier, Milch, Joghurt, Vanilleextrakt) in einer zweiten Schüssel verquirlen.
 4. Die flüssigen Zutaten zu den trockenen geben und alles gut verrühren.
-5. **Geriebene Äpfel & gehackte Nüsse** unter den Teig heben.
+5. **Gewürfelte Äpfel & gehackte Nüsse** unter den Teig heben.
 6. Den Teig auf das Backblech geben und glatt streichen.
 7. **Backen:** Ca. 25–30 Minuten, bis der Kuchen goldbraun ist. Stäbchenprobe machen.
 8. Abkühlen lassen und genießen.
